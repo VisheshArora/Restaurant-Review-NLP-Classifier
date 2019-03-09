@@ -1,0 +1,2 @@
+# Restaurant-Review-NLP-Classifier
+The restaurant review classifier involves deployment "Bag of Words" model of Natural Language Processing for preprocessing the texts to classify before fitting the classification algorithms on the data. The data consists of the textual reviews given by customers and labels as liked or not liked. After preprocessing the texts I deployed the Naive Bayes classifier to classify the testing reviews as liked or not liked. This project was constructed as an exercise in an online course 'Machine Learning A-Z'.
